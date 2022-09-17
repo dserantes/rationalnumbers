@@ -1,6 +1,6 @@
 # rationalnumbers
 
-This simple college project coded in Java helps us doing calculations using rational numbers and storing the results in a given file.
+This simple college project (2018) coded in Java helps us doing calculations using rational numbers and storing the results in a given file.
 
 ## Acknowledgments
 
